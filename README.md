@@ -35,3 +35,7 @@
   - [License](#license)
 Contributions are always welcome!
 Please read the [contribution guidelines](contributing.md) first.
+
+Preview of the Project landing page
+
+![What is this](Capture.png)
