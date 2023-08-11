@@ -38,4 +38,4 @@ Please read the [contribution guidelines](contributing.md) first.
 
 Preview of the Project landing page
 
-![What is this](Capture.png)
+![What is this](Capture.PNG)
